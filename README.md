@@ -10,7 +10,7 @@
 <br/>
 
 
-[![Edineiandrade](https://github-readme-stats.vercel.app/api?username=Edineiandrade&theme=radical)](https://github.com/iuricode/)[![Edineiandrade](https://github-readme-stats.vercel.app/api/top-langs/?username=Edineiandrade&hide=html&layout=compact&theme=radical)]()
+[![Edineiandrade](https://github-readme-stats.vercel.app/api?username=Edineiandrade&theme=radical)]()[![Edineiandrade](https://github-readme-stats.vercel.app/api/top-langs/?username=Edineiandrade&hide=html&layout=compact&theme=radical)]()
 
 📚 🧑‍🎓
 <br/>
